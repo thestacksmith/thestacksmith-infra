@@ -17,11 +17,11 @@ No fluff. No chaos. Just calm infrastructure that scales cleanly.
 
 ## 🧱 Stack Overview
 
-- GitHub Actions for CI/CD  
+- GitHub Actions or Jenkins for CI/CD  
 - Terraform for infrastructure-as-code  
-- Docker + ECS/GKE for containerized services  
-- AWS (or GCP) for scalable cloud foundation  
-- Netlify for frontend/static hosting  
+- Docker + ECS/GKE for containerized services
+- AWS (or GCP) for scalable cloud foundation
+- Frontend, Backend or Full-Stack
 
 ---
 
